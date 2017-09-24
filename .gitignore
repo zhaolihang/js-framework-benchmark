@@ -62,3 +62,4 @@ angular-*/src/app.ngsummary.json
 #glimmer
 glimmer-*/dist
 glimmer-*/tmp
+/pure-virtual-xom-keyed/.rpt2_cache
