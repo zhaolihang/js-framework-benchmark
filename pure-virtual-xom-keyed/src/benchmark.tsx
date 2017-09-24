@@ -5,7 +5,6 @@ import { Store } from "./Store";
 var startTime;
 var lastMeasure;
 var startMeasure = function (name) {
-    //console.timeStamp(name);
     startTime = performance.now();
     lastMeasure = name;
 }
@@ -41,10 +40,10 @@ export class Main extends Component {
     printDuration() {
         stopMeasure();
     }
-    componentDidUpdate() {
+    updated() {
         this.printDuration();
     }
-    componentDidMount() {
+    mounted() {
         this.printDuration();
     }
     run() {

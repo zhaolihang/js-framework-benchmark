@@ -28,6 +28,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pure-virtual-xom": "^1.0.4"
+    "pure-virtual-xom": "^1.0.6"
   }
 }
