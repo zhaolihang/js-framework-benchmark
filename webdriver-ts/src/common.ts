@@ -103,5 +103,5 @@ export let frameworks = [
     f("vidom-v0.9.8-keyed", true),
     f("vue-v2.3.3-keyed", true),
     f("vue-v2.3.3-non-keyed", false),
-    f("pure-virtual-xom-keyed", true),
+    f("anyom-keyed", true),
 ]

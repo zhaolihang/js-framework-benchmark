@@ -1,4 +1,4 @@
-import { render, Component, h } from "pure-virtual-xom";
+import { render, Component, h } from "anyom";
 import { Row } from "./Row";
 import { Store } from "./Store";
 

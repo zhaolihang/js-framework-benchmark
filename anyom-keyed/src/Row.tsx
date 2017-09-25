@@ -1,4 +1,4 @@
-import { render, Component, h } from "pure-virtual-xom";
+import { render, Component, h } from "anyom";
 (window as any).rowsUpdated = 0;
 (window as any).rowsMounted = 0;
 
