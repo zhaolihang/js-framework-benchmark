@@ -28,6 +28,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "anyom": "^0.0.2"
+    "anyom": "^0.0.4"
   }
 }
